@@ -6,7 +6,7 @@ export const initialState = {
   memory: 5,
 }
 
-//deneme
+//
 
 const calculateResult = (num1, num2, operation) => {
   switch (operation) {
